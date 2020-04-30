@@ -1,0 +1,7 @@
+a simple king-bot application that manages your discord server.
+Must have discord api secret key and bot invited to your server. 
+Create a key.js file that contains the secret key and import it to kingbot.js 
+
+To run input the following CLI
+1. npm install 
+2. npm start
